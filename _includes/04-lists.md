@@ -1,5 +1,1 @@
-- :heart:
-- :icecream:
-- :soccer:
-- :dog:
-- :cat:
+dog - cat - hey - hi
