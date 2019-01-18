@@ -1,6 +1,5 @@
-:tree:
-:heart:
-:icecream:
-:soccer:
-:dog:
-:cat:
+- :heart:
+- :icecream:
+- :soccer:
+- :dog:
+- :cat:
